@@ -28,6 +28,8 @@ gem 'jbuilder', '~> 1.2'
 # gems installed during development time :
 gem 'bootstrap-sass', '~> 3.2.0'
 
+gem 'devise', '~> 3.2.4'
+
 group :development, :test do
 	# Use sqlite3 as the database for Active Record
 gem 'sqlite3'
